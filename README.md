@@ -13,3 +13,4 @@ i have adding "This Content" in remote server
 now i have typing this contents in local repo
 1, are you ok localrepo
 2,yes i am all right remoterepo
+3,then how is your day
