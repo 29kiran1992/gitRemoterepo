@@ -1,0 +1,12 @@
+# gitRemoterepo
+
+i have adding "This Content" in remote server
+
+<<<<<<< HEAD
+#gitlocalepo
+
+now i have typing this contents in local repo
+=======
+
+alas i could not find here what i changed in localrepo
+>>>>>>> b3a0c06720a78dd28ac705a2bd826d3079c33a97
